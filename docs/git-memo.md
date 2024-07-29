@@ -146,6 +146,13 @@ permalink: /docs/git-memo
 - タイミング図
 
 - 相互作用概要図（iod）
+	- システムの鳥瞰図
+	- sd: シークエンス図
+	- cd: コミュニケーション図
+	- td: タイミング図
+	- これらの相互作用をアクションとするアクティビティ図
+![相互作用概要図](../picture/uml/exampleofaninteractionoverviewdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞")
+引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞
 
 - コンポーネント図
 	- コンポーネント：複数のクラスで構成される処理に対して１つ以上のインターフェースを用意し、あたかも１つのクラスのように取り扱ったもの
