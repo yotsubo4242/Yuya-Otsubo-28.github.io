@@ -142,10 +142,16 @@ permalink: /docs/git-memo
 - 相互作用概要図（iod）
 - コンポーネント図
 - パッケージ図
+	- クラス図のうち”package”であるクラスを抽出
+	- パッケージの依存関係を表現し管理
+![パッケージ図](../picture/uml/package-diagram-control-navigation-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞")
+引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞
+
 - 状態マシン図
 	- トリガーによるオブジェクトの状態遷移を表現
 ![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
 引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
+
 - 配置図
 	- ハードウェアの構成を表現
 ![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
