@@ -136,6 +136,13 @@ permalink: /docs/git-memo
 - アクティビティ図
 
 - クラス図
+	- オブジェクト指向モデル
+	- 属性（クラスが持つ特性）
+	- 操作（クラスが持つ処理）
+![クラス図](../picture/uml/class.png "引用＜cacoo;https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞")
+<br>引用＜Enterprise Architect;https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞
+
+
 
 - オブジェクト図
 	- クラスに中身を入れた状態のもの（クラスの多重度を検証できる）
