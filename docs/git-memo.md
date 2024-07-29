@@ -122,8 +122,31 @@ permalink: /docs/git-memo
 - プロジェクト実施時はWBSに則り実行するのみ
 
 #### wbsの例
-![wbsの例](../pucture/gant-wbs_mv.jpg.webp "引用＜https://www.jooto.com/contents/wbs/＞")
+![wbsの例](../picture/wbs/gant-wbs_mv.jpg.webp "引用＜https://www.jooto.com/contents/wbs/＞")
 引用＜jooto; https://www.jooto.com/contents/wbs/ ＞
+
+## 3. UML
+### 3.a UMLとは？
+	万国共通の記法であり、オブジェクト指向プログラミングで書かれている。
+	文章によるドキュメントに加えて開発・設計を図示化（モデル化）する。
+
+### 3.b UMLの様々な図
+- ユースケース図
+	- 
+- アクティビティ図
+- クラス図
+- オブジェクト図
+- シークエンス図
+- コミュニケーション図
+- タイミング図
+- 相互作用概要図（iod）
+- コンポーネント図
+- パッケージ図
+- 状態マシン図
+- 配置図
+	- ハードウェアの構成を表現
+![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
+引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞
 
 ## git
 
