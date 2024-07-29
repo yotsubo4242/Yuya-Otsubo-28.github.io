@@ -143,6 +143,9 @@ permalink: /docs/git-memo
 - コンポーネント図
 - パッケージ図
 - 状態マシン図
+	- トリガーによるオブジェクトの状態遷移を表現
+![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
+引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
 - 配置図
 	- ハードウェアの構成を表現
 ![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
