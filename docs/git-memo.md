@@ -138,6 +138,10 @@ permalink: /docs/git-memo
 - クラス図
 
 - オブジェクト図
+	- クラスに中身を入れた状態のもの（クラスの多重度を検証できる）
+	- クラス図を作成するための中間生成物的な位置づけ
+![オブジェクト図](../picture/uml/exampleobjectdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/objectdiagram.html ＞")
+<br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/objectdiagram.html ＞
 
 - シークエンス図
 	- 時間の前後関係やタイミングを表現できる
