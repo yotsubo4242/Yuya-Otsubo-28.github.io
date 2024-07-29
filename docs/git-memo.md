@@ -134,13 +134,26 @@ permalink: /docs/git-memo
 - ユースケース図
 	- 
 - アクティビティ図
+
 - クラス図
+
 - オブジェクト図
+
 - シークエンス図
+
 - コミュニケーション図
+
 - タイミング図
+
 - 相互作用概要図（iod）
+
 - コンポーネント図
+	- コンポーネント：複数のクラスで構成される処理に対して１つ以上のインターフェースを用意し、あたかも１つのクラスのように取り扱ったもの
+	- カプセル化されたソフトウェアパーツの管理を目的とした図
+	- 「コンポーネント」はタグ付アイコンで表現
+![コンポーネント図](../picture/uml/hyperlinkexample-9026.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞")
+引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞
+
 - パッケージ図
 	- クラス図のうち”package”であるクラスを抽出
 	- パッケージの依存関係を表現し管理
