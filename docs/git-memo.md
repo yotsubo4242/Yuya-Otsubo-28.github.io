@@ -140,6 +140,9 @@ permalink: /docs/git-memo
 - オブジェクト図
 
 - シークエンス図
+	- 時間の前後関係やタイミングを表現できる
+![シークエンス図](../picture/uml/example.png "引用＜東京大学; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞")
+<br>引用＜Enterprise Architect; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞
 
 - コミュニケーション図
 	- シークエンス図を書き換えたもの
