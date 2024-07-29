@@ -134,6 +134,16 @@ permalink: /docs/git-memo
 - ユースケース図
 	- 
 - アクティビティ図
+	- システム内部で行われていることを表現する
+	- 各ユースケースをどのようなプロセスで実現するかを記載
+	- アクションノード（タスクに相当）：角が丸い長方形
+	- 矢印（制御フローの方向を示す）
+	- 初期ノード（アクティビティの開始点）：黒丸
+	- 最終ノード（アクティビティの終了点）
+	- フォーク（非同期の分岐を表現）：黒の太線
+	- ジョイン（条件分岐・統合など並行する制御フローを同期する）：菱形
+![アクティビティ図](../picture/uml/exampleofanactivitydiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/activitydiagram.html ＞")
+<br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/activitydiagram.html ＞
 
 - クラス図
 	- オブジェクト指向モデル
@@ -141,7 +151,6 @@ permalink: /docs/git-memo
 	- 操作（クラスが持つ処理）
 ![クラス図](../picture/uml/class.png "引用＜cacoo;https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞")
 <br>引用＜Enterprise Architect;https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞
-
 
 
 - オブジェクト図
