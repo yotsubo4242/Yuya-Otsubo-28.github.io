@@ -142,6 +142,10 @@ permalink: /docs/git-memo
 - シークエンス図
 
 - コミュニケーション図
+	- シークエンス図を書き換えたもの
+	- 通信リンクを使って接続形態やネットワーク構成が表現できる
+![コミュニケーション図](../picture/uml/uml-communication-diagram-example.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞")
+<br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞
 
 - タイミング図
 	- オブジェクト間の相互作用のタイミングと状態遷移を表現したもの
@@ -162,23 +166,23 @@ permalink: /docs/git-memo
 	- カプセル化されたソフトウェアパーツの管理を目的とした図
 	- 「コンポーネント」はタグ付アイコンで表現
 ![コンポーネント図](../picture/uml/hyperlinkexample-9026.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞")
-引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞
+<br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞
 
 - パッケージ図
 	- クラス図のうち”package”であるクラスを抽出
 	- パッケージの依存関係を表現し管理
 ![パッケージ図](../picture/uml/package-diagram-control-navigation-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞")
-引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞
+<br>引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞
 
 - 状態マシン図
 	- トリガーによるオブジェクトの状態遷移を表現
 ![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
-引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
+<br>引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
 
 - 配置図
 	- ハードウェアの構成を表現
 ![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
-引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞
+<br>引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞
 
 ## git
 
