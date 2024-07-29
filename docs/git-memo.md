@@ -131,8 +131,15 @@ permalink: /docs/git-memo
 	文章によるドキュメントに加えて開発・設計を図示化（モデル化）する。
 
 ### 3.b UMLの様々な図
+
 - ユースケース図
-	- 
+	- アクター
+	- ユースケース
+	- 関連
+	- システム境界
+![ユースケース図](../picture/uml/uml-usecase-diagram-online-shopping-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-usecase.html ＞")
+<br>引用＜wondershare; https://www.edrawsoft.com/jp/uml-usecase.html ＞
+
 - アクティビティ図
 	- システム内部で行われていることを表現する
 	- 各ユースケースをどのようなプロセスで実現するかを記載
@@ -149,8 +156,8 @@ permalink: /docs/git-memo
 	- オブジェクト指向モデル
 	- 属性（クラスが持つ特性）
 	- 操作（クラスが持つ処理）
-![クラス図](../picture/uml/class.png "引用＜cacoo;https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞")
-<br>引用＜Enterprise Architect;https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞
+![クラス図](../picture/uml/class.png "引用＜cacoo; https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞")
+<br>引用＜cacoo; https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞
 
 
 - オブジェクト図
@@ -162,7 +169,7 @@ permalink: /docs/git-memo
 - シークエンス図
 	- 時間の前後関係やタイミングを表現できる
 ![シークエンス図](../picture/uml/example.png "引用＜東京大学; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞")
-<br>引用＜Enterprise Architect; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞
+<br>引用＜東京大学; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞
 
 - コミュニケーション図
 	- シークエンス図を書き換えたもの
@@ -199,8 +206,8 @@ permalink: /docs/git-memo
 
 - 状態マシン図
 	- トリガーによるオブジェクトの状態遷移を表現
-![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
-<br>引用＜cacoo by nulab; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
+![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
+<br>引用＜cacoo; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
 
 - 配置図
 	- ハードウェアの構成を表現
