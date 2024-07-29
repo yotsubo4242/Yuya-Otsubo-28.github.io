@@ -214,7 +214,17 @@ permalink: /docs/git-memo
 ![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
 <br>引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞
 
-## git
+## 4. コーディング
+- コードは書くよりも読まれることの方が多い
+- ソフトウェア開発にあたり読みやすいコードを書くことは必須
+	- 他人が読みやすいコード
+	- 未来の自分が読みやすいコード
+	- ルールが必要
+- 言語ごとにコードを統一するためのコーディング規則が存在する（pythonのPEP3など）
+- 読みやすいコメントや、わかりやすい命名規則などが大切
+
+
+## 5. git
 
 ~gitについて~
 
