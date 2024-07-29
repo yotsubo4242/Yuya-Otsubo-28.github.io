@@ -122,7 +122,8 @@ permalink: /docs/git-memo
 - プロジェクト実施時はWBSに則り実行するのみ
 
 #### wbsの例
-![wbsの例](../pucture/gant-wbs_mv.jpg.webp)
+![wbsの例](../pucture/gant-wbs_mv.jpg.webp "引用＜https://www.jooto.com/contents/wbs/＞")
+引用＜jooto; https://www.jooto.com/contents/wbs/ ＞
 
 ## git
 
