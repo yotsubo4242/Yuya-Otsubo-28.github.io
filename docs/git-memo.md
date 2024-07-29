@@ -144,6 +144,9 @@ permalink: /docs/git-memo
 - コミュニケーション図
 
 - タイミング図
+	- オブジェクト間の相互作用のタイミングと状態遷移を表現したもの
+![タイミング図](../picture/uml/example_of_a_timing_diagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞")
+<br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞
 
 - 相互作用概要図（iod）
 	- システムの鳥瞰図
@@ -152,7 +155,7 @@ permalink: /docs/git-memo
 	- td: タイミング図
 	- これらの相互作用をアクションとするアクティビティ図
 ![相互作用概要図](../picture/uml/exampleofaninteractionoverviewdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞")
-引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞
+<br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞
 
 - コンポーネント図
 	- コンポーネント：複数のクラスで構成される処理に対して１つ以上のインターフェースを用意し、あたかも１つのクラスのように取り扱ったもの
