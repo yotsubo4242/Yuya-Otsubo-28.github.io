@@ -261,7 +261,42 @@ permalink: /docs/git-memo
 #### .gitignore
 	ファイルのパスを記入しておくことで、gitに管理してほしくないファイルを指定するファイル。
 
-
 ### 主な git commands
 
-~commmandの説明~
+1. `git init` : gitの初期化・設定開始
+
+2. `git status` : ワークツリーのステータスを表示
+
+3. `git config` : 設定周りの確認・変更
+
+4. `git log` : ログを表示。`git log --oneline`で１行のみのコミットメッセージを表示。
+
+5. `git diff` : ファイルの差分を表示。`git diff <コミットID>`で過去のコミットとの差分を表示。
+
+6. `git add <ファイルパス>` : 変更したファイルをステージングエリアに追加。
+
+7. `git commit` : コミットの実行。`git commit -m "メッセージ"`で簡単なコミットメッセージ追加。
+
+8. `git commit --amend --no-edit` : コミットの修正。
+
+9. `git checkout` : 削除されたファイルを復旧や過去コミットの復元やブランチの切り替え。
+
+10. `git reset` : コミットのリセット。
+
+11. `git revert` : コミットの変更を打ち消す」コミット。
+
+12. `git rm` : ファイルとindex情報の削除。
+
+13. `git clone` : レポジトリをコピー。
+
+14. `git pull` : リモートレポジトリの同期。
+
+15. `git push` : 変更（コミット）をアップロードする。
+
+16. `git request-pull` : プルリクエスト（変更依頼）
+
+17. `git remote` : リモートレポジトリの設定
+
+18. `git branch` : ブランチの確認・作成。
+
+19. `git merge` : ブランチの統合。
