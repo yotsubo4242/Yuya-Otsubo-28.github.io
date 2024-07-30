@@ -137,7 +137,7 @@ permalink: /docs/git-memo
 	- ユースケース
 	- 関連
 	- システム境界
-![ユースケース図](../picture/uml/uml-usecase-diagram-online-shopping-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-usecase.html ＞")
+<br>![ユースケース図](../picture/uml/uml-usecase-diagram-online-shopping-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-usecase.html ＞")
 <br>引用＜wondershare; https://www.edrawsoft.com/jp/uml-usecase.html ＞
 
 - アクティビティ図
@@ -149,37 +149,37 @@ permalink: /docs/git-memo
 	- 最終ノード（アクティビティの終了点）
 	- フォーク（非同期の分岐を表現）：黒の太線
 	- ジョイン（条件分岐・統合など並行する制御フローを同期する）：菱形
-![アクティビティ図](../picture/uml/exampleofanactivitydiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/activitydiagram.html ＞")
+<br>![アクティビティ図](../picture/uml/exampleofanactivitydiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/activitydiagram.html ＞")
 <br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/activitydiagram.html ＞
 
 - クラス図
 	- オブジェクト指向モデル
 	- 属性（クラスが持つ特性）
 	- 操作（クラスが持つ処理）
-![クラス図](../picture/uml/class.png "引用＜cacoo; https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞")
+<br>![クラス図](../picture/uml/class.png "引用＜cacoo; https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞")
 <br>引用＜cacoo; https://cacoo.com/ja/blog/how-to-write-class-diagram/ ＞
 
 
 - オブジェクト図
 	- クラスに中身を入れた状態のもの（クラスの多重度を検証できる）
 	- クラス図を作成するための中間生成物的な位置づけ
-![オブジェクト図](../picture/uml/exampleobjectdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/objectdiagram.html ＞")
+<br>![オブジェクト図](../picture/uml/exampleobjectdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/objectdiagram.html ＞")
 <br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/objectdiagram.html ＞
 
 - シークエンス図
 	- 時間の前後関係やタイミングを表現できる
-![シークエンス図](../picture/uml/example.png "引用＜東京大学; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞")
+<br>![シークエンス図](../picture/uml/example.png "引用＜東京大学; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞")
 <br>引用＜東京大学; https://lecture.ecc.u-tokyo.ac.jp/hideo-t/references/uml/sequence-diagram/sequence-diagram.html ＞
 
 - コミュニケーション図
 	- シークエンス図を書き換えたもの
 	- 通信リンクを使って接続形態やネットワーク構成が表現できる
-![コミュニケーション図](../picture/uml/uml-communication-diagram-example.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞")
+<br>![コミュニケーション図](../picture/uml/uml-communication-diagram-example.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞")
 <br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞
 
 - タイミング図
 	- オブジェクト間の相互作用のタイミングと状態遷移を表現したもの
-![タイミング図](../picture/uml/example_of_a_timing_diagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞")
+<br>![タイミング図](../picture/uml/example_of_a_timing_diagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞")
 <br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/timingdiagram.html ＞
 
 - 相互作用概要図（iod）
@@ -188,30 +188,30 @@ permalink: /docs/git-memo
 	- cd: コミュニケーション図
 	- td: タイミング図
 	- これらの相互作用をアクションとするアクティビティ図
-![相互作用概要図](../picture/uml/exampleofaninteractionoverviewdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞")
+<br>![相互作用概要図](../picture/uml/exampleofaninteractionoverviewdiagram.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞")
 <br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/interactionoverviewdiagram.html ＞
 
 - コンポーネント図
 	- コンポーネント：複数のクラスで構成される処理に対して１つ以上のインターフェースを用意し、あたかも１つのクラスのように取り扱ったもの
 	- カプセル化されたソフトウェアパーツの管理を目的とした図
 	- 「コンポーネント」はタグ付アイコンで表現
-![コンポーネント図](../picture/uml/hyperlinkexample-9026.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞")
+<br>![コンポーネント図](../picture/uml/hyperlinkexample-9026.png "引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞")
 <br>引用＜Enterprise Architect; https://www.sparxsystems.jp/help/16.0/componentdiagram.html ＞
 
 - パッケージ図
 	- クラス図のうち”package”であるクラスを抽出
 	- パッケージの依存関係を表現し管理
-![パッケージ図](../picture/uml/package-diagram-control-navigation-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞")
+<br>![パッケージ図](../picture/uml/package-diagram-control-navigation-system.png "引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞")
 <br>引用＜wondershare; https://www.edrawsoft.com/jp/what-is-uml-package-diagram.html ＞
 
 - 状態マシン図
 	- トリガーによるオブジェクトの状態遷移を表現
-![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
+<br>![状態マシン図の例](../picture/uml/jotaimashin.png "引用＜cacoo; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞")
 <br>引用＜cacoo; https://cacoo.com/ja/blog/what-is-state-machine-diagram/ ＞
 
 - 配置図
 	- ハードウェアの構成を表現
-![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
+<br>![配置図の例](../picture/uml/6-deployment-diagram%20.png "引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞")
 <br>引用＜wondershare; https://www.edrawsoft.com/jp/uml-deployment-diagram-example.html ＞
 
 ## 4. コーディング
